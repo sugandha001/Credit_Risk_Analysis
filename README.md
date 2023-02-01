@@ -49,12 +49,8 @@ For this analysis we are Using the credit card credit dataset from LendingClub, 
 
 ![Screenshot (246)](https://user-images.githubusercontent.com/112904905/216106991-776a594b-ec8f-4952-b175-c6a2527b6b26.png)
 
-
-There is a bulleted list that describes the balanced accuracy score and the precision and recall scores of all six machine learning models (15 pt)
-
 # Summary
 
 If we compare all 6 models for it's accuracy and effectiveness, the EasyensEnsembleClassifier and the BalancedRandomForestClassifier gave more accuracy of 78% each.
-The precision score 
 
-# Recommendations -There is a recommendation on which model to use, or there is no recommendation with a justification (3 pt)
+# Recommendations -
