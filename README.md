@@ -60,7 +60,7 @@ For this analysis we are Using the credit card credit dataset from LendingClub, 
 
 # Summary
 
-If we compare all 6 models for it's accuracy and effectiveness, the EasyensEnsembleClassifier gave more accuracy of 92%.
+If we compare all 6 models for it's accuracy and effectiveness, the EasyEnsembleClassifier gave more accuracy of 92%.
 
 # Recommendations - 
-EasyensEnsembleClassifier can prove to be a useful model in predicting credit risk to a decent accuracy of 92%.
+EasyEnsembleClassifier can prove to be a useful model in predicting credit risk to a decent accuracy of 92%.
